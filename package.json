@@ -1,6 +1,6 @@
 {
   "name": "ngx-ui-switch",
-  "version": "10.0.2",
+  "version": "10.16.3",
   "description": "switch button for angular4",
   "bugs": "https://github.com/webcat12345/ngx-ui-switch/issues",
   "homepage": "https://github.com/webcat12345/ngx-ui-switch#readme",
@@ -14,6 +14,7 @@
     "angular 5",
     "angular 6",
     "angular 7",
+	"angular 8",
     "ngx",
     "ng2",
     "uiswitch",
